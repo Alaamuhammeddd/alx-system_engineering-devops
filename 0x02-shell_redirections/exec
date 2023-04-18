@@ -1,6 +1,0 @@
-#!/bin/bash
-
-echo "file name :"
-read filename
-
-chmod +x ${filename}
